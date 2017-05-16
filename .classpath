@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/home/vikram/.m2/repository/org/aspectj/aspectjweaver/1.8.10/aspectjweaver-1.8.10.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.aspectj"/>
+			<attribute name="maven.artifactId" value="aspectjweaver"/>
+			<attribute name="maven.version" value="1.8.10"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vikram/.m2/repository/org/mockito/mockito-core/1.10.19/mockito-core-1.10.19.jar" sourcepath="/home/vikram/.m2/repository/org/mockito/mockito-core/1.10.19/mockito-core-1.10.19-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="javadoc_location" value="jar:file:/home/vikram/.m2/repository/org/mockito/mockito-core/1.10.19/mockito-core-1.10.19-javadoc.jar!/"/>
+			<attribute name="maven.groupId" value="org.mockito"/>
+			<attribute name="maven.artifactId" value="mockito-core"/>
+			<attribute name="maven.version" value="1.10.19"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vikram/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="antlr"/>
+			<attribute name="maven.artifactId" value="antlr"/>
+			<attribute name="maven.version" value="2.7.7"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
