@@ -1,4 +1,4 @@
-package leetCode1stMay2017;
+package JavaAlgo;
 
 
 public class CommonPrefix {

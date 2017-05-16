@@ -1,4 +1,4 @@
-package leetCode1stMay2017;
+package JavaAlgo;
 
 import java.util.ArrayList;
 import java.util.HashMap;
